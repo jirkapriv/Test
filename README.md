@@ -1,2 +1,2 @@
-# Test
-[ColorChange](https://jirkapriv.github.io/Test/)
+# Open
+[Test](https://jirkapriv.github.io/Test/)
